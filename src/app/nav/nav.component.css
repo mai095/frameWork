@@ -1,0 +1,16 @@
+.navbar{
+    background-color: var(--navColor);
+    padding: 1.5rem 0px;
+}
+
+.navbar a{
+    color: white;
+    margin-left: 20px;
+    width: fit-content;
+
+}
+.activeLink{
+    background-color: var(--mainColor);
+    color: #fff;
+    border-radius: 15%;
+}

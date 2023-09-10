@@ -1,0 +1,14 @@
+.aboutComponent{
+   background-color: var(--mainColor);
+   margin-top: 99.67px;
+}
+
+
+.aboutComponent {
+   color: #fff;
+}
+.line{
+   height: 4px;
+   width: 80px;
+   background-color:#fff;
+}

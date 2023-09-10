@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+/* & Global style */
+:root{
+    --navColor:#2c3e50;
+    --mainColor:#1abc9c;
+    
+}
+.underLine .lineDecorat{
+    height: 4px;
+    width: 80px;
+    background-color:var(--navColor);
+
+}
